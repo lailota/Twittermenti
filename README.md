@@ -4,6 +4,7 @@
 #  Twittermenti
 
 Twittermenti is a Machine Learning app created with CoreML, that allows the user to see a sentiment classification of any company or person using Twittter tweets. 
+
 Its great to predict stock market condition of a given company using latest tweets and perform a sentiment classification of that particular company.
 
 
